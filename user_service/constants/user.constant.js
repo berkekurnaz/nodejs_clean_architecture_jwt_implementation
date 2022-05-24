@@ -1,0 +1,6 @@
+var USER_CONSTANTS = {
+    TEST_CONSTANTS_1 : 1,
+    TEST_CONSTANTS_2 : 2,
+}
+
+module.exports = USER_CONSTANTS;
